@@ -97,12 +97,12 @@ body {
 }
 
 :-moz-placeholder {
-  color: #c9c9c9 !important;
+  color: #ffff !important;
   font-size: 13px;
 }
 
 ::-webkit-input-placeholder {
-  color: #ccc;
+  color: #fff;
   font-size: 13px;
 }
 
@@ -116,7 +116,7 @@ input[type=text], input[type=password] {
   padding: 0 10px;
   width: 200px;
   height: 34px;
-  color: #404040;
+  color: #ffff;
   background: rgba(255, 255, 255, 0.103);
   border: 1px solid;
   border-radius: 2px;
